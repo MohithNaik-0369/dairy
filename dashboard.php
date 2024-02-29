@@ -11,7 +11,7 @@ if (strlen($_SESSION['aid']==0)) {
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Dashboard</title>
+    <title>Dashboards</title>
     <link href="vendors/vectormap/jquery-jvectormap-2.0.3.css" rel="stylesheet" type="text/css" />
     <link href="vendors/jquery-toggles/css/toggles.css" rel="stylesheet" type="text/css">
     <link href="vendors/jquery-toggles/css/themes/toggles-light.css" rel="stylesheet" type="text/css">
